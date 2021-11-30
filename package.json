@@ -10,6 +10,6 @@
   "author": "ihoey <mail@ihoey.com> (https://blog.ihoey.com/)",
   "license": "MIT",
   "dependencies": {
-    "xlsx": "^0.12.9"
+    "xlsx": "^0.17.4"
   }
 }
